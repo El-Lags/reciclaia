@@ -1,0 +1,15 @@
+{
+  "accuracy": 0.8364116094986808,
+  "accuracy_balanceada": 0.825653010927269,
+  "n_test": 379,
+  "recall_por_clase": {
+    "cardboard": 0.9833333333333333,
+    "glass": 0.9605263157894737,
+    "metal": 0.7704918032786885,
+    "paper": 0.7752808988764045,
+    "plastic": 0.75,
+    "trash": 0.7142857142857143
+  },
+  "clip_accuracy": 0.6596306068601583,
+  "clip_accuracy_balanceada": 0.5992342966254999
+}
