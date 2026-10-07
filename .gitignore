@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+mejor.pt
+entrega_modelo.zip
